@@ -1,0 +1,43 @@
+<style>
+        .wordcharacte{
+        }
+        .s1{
+            font-size: xx-small;
+        }
+        .s2{
+            font-size: x-small;
+        }
+        .s3{
+            font-size: smaller;
+        }
+        .s4{
+            font-size: medium;
+        }
+        .s5{
+            font-size: larger;
+        }
+        .s6{
+            font-size: x-large;
+        }
+        .s7{
+            font-size: xx-large;
+        }
+        .red{
+            color:red; 
+        }
+        .green{
+            color:green;
+        }
+        .blue{
+            color:blue;
+        }
+        .yellow{
+            color:yellow;
+        }
+        .bold{
+            font-weight: bold;
+        }
+        .italic{
+            font-style: italic;
+        }
+    </style>
